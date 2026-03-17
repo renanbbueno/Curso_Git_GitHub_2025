@@ -1,0 +1,10 @@
+## Comandos iniciais
+
+ls = lista todos os arquivos presentes no diretório
+cd = move entre os diretórios e o define também (qual você está)
+pwd = mostra o caminho absoluto do diretório
+ls -a = mostra os arquivos ocultos (que começam com ".")
+cd .. = migra o diretório para a pasta acima da atual.
+cat "nome do arquivo" = exibe o conteúdo do arquivo
+rm = remove um arquivo ou diretório
+mkdir "nome" = cria uma nova pasta no diretório
