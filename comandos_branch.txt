@@ -5,3 +5,4 @@ git branch = visualiza todas as branches
 git log = carrega todo o histórico de commits até mesmo da branch main se você tiver em outra no momento.
 git checkout main = volta para a branch principal
 git merge "nome da branch" = estando na branch "main" esse comando trás as informações de outra branch (todas as atualizações feitas).
+git branch -D "nome da branch" = estando na branch "main" exclui a branch citada entre "" e já mesclada.
