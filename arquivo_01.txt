@@ -1,1 +1,2 @@
-Teste para o curso Git 2025. Muito interessante!
+Teste do curso Git 2025! Muito interessante!
+
