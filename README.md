@@ -1,4 +1,4 @@
-\# Curso TMW Git \& GitHub 2025
+\# Curso TMW Git \& GitHub 2025 (Théo)
 
 
 
@@ -6,5 +6,5 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 
 
-Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.  
+Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code (VS Code).
 
