@@ -1,4 +1,4 @@
-\# Curso TMW Git \& GitHub 2025 (Théo)
+\# Curso TMW Git \& GitHub 2025 (Téo)
 
 
 
