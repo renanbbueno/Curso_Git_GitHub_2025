@@ -1,13 +1,13 @@
 ## Comandos Git
 
-git init . = inicia o repositório (torna a pasta especial)
-git status = mostra o status geral, arquivos não salvos, etc...
-git add "nome do arquivo" = adiciona o arquivo no commit (commita) (é o que se deseja salvar no "checkpoint")
-git add . = adiciona todos os arquivos do diretório no commit futuro
-git add *.txt = adiciona todos os arquivos ".txt" no commit futuro
-git log = mostra todos os commits
-git diff "arquivo" = mostra o que há de diferente entre o estado atual do arquivo e o anterior
-git reset "arquivo" = usado quando se add erroneamente um arquivo no git add
+git init . <- inicia o repositório (torna a pasta especial)
+git status <- mostra o status geral, arquivos não salvos, etc...
+git add "nome do arquivo" <- adiciona o arquivo no commit (commita) (é o que se deseja salvar no "checkpoint")
+git add . <- adiciona todos os arquivos do diretório no commit futuro
+git add *.txt <- adiciona todos os arquivos ".txt" no commit futuro
+git log <- mostra todos os commits
+git diff "arquivo" <- mostra o que há de diferente entre o estado atual do arquivo e o anterior
+git reset "arquivo" <- usado quando se add erroneamente um arquivo no git add
 
 
 #Fluxo de Trabalho 
